@@ -8,6 +8,8 @@
 -------------------------------------
 ![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias utilizadas por mim!!
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,10 +23,6 @@
   <img align="center" alt="robot" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
 </div>
 
--------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--------------------------------------
 ## Sobre mim:
 🚀 Atualmente Trabalho na TOTVS como QA, assegurando a qualidade dos produtos e implementando estratégias de automação de testes.
 Faço analise e desenvolvimento de sistemas pela Descomplica, e futuramente irei ingressar na area de Defesa cibernetica e popsteriormente fazendo uma Pós.
