@@ -6,7 +6,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guto-oliveira-227580294/)
 
 -------------------------------------
-![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dark)
+![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
