@@ -1,12 +1,12 @@
 # Olá! Eu sou o Guto 👋
 
-### Sou um profissional apaixonado por tecnologia, com um forte interesse em automação de testes e desenvolvimento de software. Atualmente, estou atuando como QA na TOTVS
-#### Minhas redes sociais
+### Sou um profissional apaixonado por tecnologia, com um forte interesse em automação de testes e desenvolvimento de software.
+#### Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guts.okx/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guto-oliveira-227580294/)
 
 -------------------------------------
-![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dracula)
+![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dark)
 
 ## Tecnologias utilizadas por mim!!
 <div style="display: inline_block">
@@ -23,3 +23,10 @@
 
 -------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-------------------------------------
+## Sobre mim:
+🚀 Atualmente Trabalho na TOTVS como QA, assegurando a qualidade dos produtos e implementando estratégias de automação de testes.
+Faço analise e desenvolvimento de sistemas pela Descomplica, e futuramente irei ingressar na area de Defesa cibernetica e popsteriormente fazendo uma Pós.
+
+🌱 Estou constantemente expandindo meus conhecimentos, seja em tecnologias de desenvolvimento, automação ou cibersegurança. A busca por novos desafios e o aprimoramento das minhas habilidades é o que me motiva.
