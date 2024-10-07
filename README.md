@@ -25,6 +25,6 @@
 
 ## Sobre mim:
 🚀 Atualmente Trabalho na TOTVS como QA, assegurando a qualidade dos produtos e implementando estratégias de automação de testes.
-Faço analise e desenvolvimento de sistemas pela Descomplica, e futuramente irei ingressar na area de Defesa cibernetica e popsteriormente fazendo uma Pós.
+Faço Análise e desenvolvimento de sistemas pela Descomplica e futuramente irei ingressar na area de Defesa cibernética e posteriormente fazendo uma pós.
 
 🌱 Estou constantemente expandindo meus conhecimentos, seja em tecnologias de desenvolvimento, automação ou cibersegurança. A busca por novos desafios e o aprimoramento das minhas habilidades é o que me motiva.
