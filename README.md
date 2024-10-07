@@ -20,3 +20,6 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="robot" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
 </div>
+
+-------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
