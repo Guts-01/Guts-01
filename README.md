@@ -3,7 +3,8 @@
 ### Sou um profissional apaixonado por tecnologia, com um forte interesse em automação de testes e desenvolvimento de software.
 #### Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guts.okx/)
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guto-oliveira-227580294/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guto-oliveira-227580294/)
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guto-oliveira-portifolio.vercel.app/)
 
 -------------------------------------
 ![Guts GitHub stats](https://github-readme-stats.vercel.app/api?username=Guts-01&show_icons=true&theme=dracula)
